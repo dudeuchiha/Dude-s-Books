@@ -1,0 +1,28 @@
+yo
+
+To update your local machine with the changes I have made do the following:
+
+    1. Pull up Git Bash
+    2. cd C: drive
+    3. Navigate to your project folder for dudesBooks
+    4. run the following command:
+        git pull
+    5. once ran you should be able to see this file appear in your local PC folder
+
+
+Sweet.
+Now lets get to your work for today.
+
+    1. Create a home page for your book shop.
+        - Connect bootstrap to your site
+        - Include a Nav Bar
+        - Include an <h1> tag to show the page's title
+        - Add anything else you would like as practice for HTML
+
+    2. Upload your new changes to your git repo w/ the following commands
+        - git add .
+        - git commit -m "message here"
+        - git push origin master
+
+    3. Add a few more things to your HTML page & upload them to git once more.
+
