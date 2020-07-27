@@ -15,6 +15,7 @@ Now lets get to your work for today.
 
     1. Create a home page for your book shop.
         - Connect bootstrap to your site
+            (https://getbootstrap.com/docs/4.3/getting-started/introduction/)
         - Include a Nav Bar
         - Include an <h1> tag to show the page's title
         - Add anything else you would like as practice for HTML
