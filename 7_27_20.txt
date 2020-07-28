@@ -6,7 +6,7 @@ To update your local machine with the changes I have made do the following:
     2. cd C: drive
     3. Navigate to your project folder for dudesBooks
     4. run the following command:
-        git pull
+        git pull origin master
     5. once ran you should be able to see this file appear in your local PC folder
 
 
